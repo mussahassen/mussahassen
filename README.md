@@ -1,4 +1,10 @@
-## Mussa here, 
+## Mussa Hassen 
+
+Sophmore Data Science, Colorado State University 2027
+\
+Interest in SOC analysis, sport's epidemiology, time series, bayesian statistics, sports analytics
+\
+applications in R, Python, Java
 
 <!--
 **mussahassen/mussahassen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
