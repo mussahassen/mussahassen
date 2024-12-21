@@ -1,6 +1,6 @@
 ## Mussa Hassen 
 
-Sophmore Data Science, Colorado State University 2027
+BS. Data Science, Colorado State University 2027
 \
 Interest in SOC analysis, sport's epidemiology, time series, bayesian statistics, sports analytics
 \
