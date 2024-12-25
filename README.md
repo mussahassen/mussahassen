@@ -6,6 +6,8 @@ Interest in SOC analysis, sport's epidemiology, time series, bayesian statistics
 \
 applications in R, Python, Java
 
+https://youtu.be/BHj81z5QQc4?si=ImQXOMUf0JwdVVv2
+
 <!--
 **mussahassen/mussahassen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
