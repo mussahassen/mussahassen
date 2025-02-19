@@ -1,8 +1,8 @@
+***IN DEVELOPMENT***
+
 ## Mussa Hassen 
 
 B.S. Data Science, Colorado State University 2027
-\
-Interest in SOC analysis, sport's epidemiology, time series, bayesian statistics, sports analytics
 \
 applications in R, Python, Java
 
