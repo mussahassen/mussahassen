@@ -4,7 +4,7 @@
 
 B.S. Data Science, Colorado State University 2027
 \
-applications in R, Python, Java
+applications in R, Python, SQL
 
 
 <!--
